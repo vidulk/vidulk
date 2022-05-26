@@ -6,4 +6,4 @@ Look through my repositories to see some useful code to extract and clean data f
 
 There are some basic model implementation notebooks but the big forecasting ones are still private for now
 
-Reinforcement & MultiModal learning are personal interests so there are some fun notebooks on those topics as well
+Reinforcement learning is a personal interest so there are some fun notebooks on that as well
